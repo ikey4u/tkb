@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+*.out
+*.aux
+*.toc
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.xdv
+*.ipynb_checkpoints
+*.pyc
+build
+draft
