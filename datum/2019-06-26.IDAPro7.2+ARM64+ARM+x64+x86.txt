@@ -1,0 +1,15 @@
+目录
+
+    IDAPro7.2
+    ├── IDAPro.key
+    ├── README.txt
+    ├── hexrays_sdk_72.zip
+    ├── idasdk72.7z
+    ├── install_key.txt
+    ├── plugins
+    │   ├── hexarm.dll
+    │   ├── hexarm64.dll
+    │   └── hexrays.dll
+    └── x64_idapronw_hexarm64w_181105_de455c480e11ef1ec91473028f4dd175.exe
+
+链接: https://pan.baidu.com/s/1S76Oy2M1EHoXATNJJZYx0Q 提取码: ksat, 解压密码 goodgoodstudy
