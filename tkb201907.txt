@@ -1,0 +1,165 @@
+---
+Title: Technology Knowledge Base 2019-07
+Date: 2019-07-01
+Author: bugnofree
+---
+
+TKB 首页: https://github.com/ikey4u/tkb, 欢迎 star.
+
+- 2019-07-01 @[https://blog.toby.moe/android-shim/]
+
+    科普文章: 谈第三方Android ROM开发者是如何适配硬件的
+
+    http://gityuan.com/2015/08/01/android-arvchitecture/
+
+- 2019-07-02 @[https://www.maizure.org/projects/decoded-gnu-coreutils/index.html]
+
+    Decoded: GNU coreutils
+
+    GNU 核心工具套件原理与流程详解.
+
+- 2019-07-03 @[https://realpython.com/python-type-checking/]
+
+    Python Type Checking (Guide)
+
+- 2019-07-04 @[https://www.bamsoftware.com/hacks/zipbomb/]
+
+    A better zip bomb
+
+    制作 ZIP 压缩包炸弹的新方法.
+
+    zbsm.zip    42 kB   →  5.5 GB
+    zblg.zip    10 MB   →  281 TB
+    zbxl.zip    46 MB   →  4.5 PB (Zip64, less compatible)
+
+- 2019-07-05 @[https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/]
+
+    Intro Guide to Dockerfile Best Practices
+
+- 2019-07-06 @[https://github.com/Nelarius/weekend-raytracer-zig]
+
+    Rust 实现的光线追踪.
+
+- 2019-07-07 @[https://christine.website/blog/howto-usermode-linux-2019-07-07]
+
+    How to Use User Mode Linux
+
+- 2019-07-08 @[https://westerns.tokyo/wctf2019-gtf/wctf2019-gtf-slides.pdf]
+
+    New web exploitation technique - Antivirus Oracle
+
+    WCTF2019: Gyotaku The Flag
+
+- 2019-07-09
+
+    - Where Rust meets Latin America @[https://rustlatam.org/]
+
+        RUST 会议 PPT
+
+    - [CTF] paul-axe/ctf: @[https://github.com/paul-axe/ctf/tree/master/wctf2019/p-door]
+
+        paul-axe 公开的 WCTF 2019 P Door 赛题的 writeup – Jett
+
+- 2019-07-10 java 反混淆工具
+
+    - simplify @[https://github.com/CalebFenton/simplify/tree/master/simplify/ObfuscatedApp]
+
+        反混淆 Android APP (java 层)
+
+    - deobfuscator @[https://github.com/java-deobfuscator/deobfuscator]
+
+        java 反混淆
+
+    - debin @[https://github.com/eth-sri/debin]
+
+        机器学习的方法反混淆
+
+- 2019-07-11
+
+    - The Art of Subdomain Enumeration @[https://appsecco.com/books/subdomain-enumeration/]
+
+    - Mozilla的浏览器fuzz框架 @[https://blog.mozilla.org/security/2019/07/10/grizzly/]
+
+- 2019-07-12 @[http://www.hexacorn.com/blog/2019/07/11/beyond-good-ol-run-key-part-108-2/]
+
+    Beyond good old Run key, Part 108
+
+- 2019-07-13 @[https://www.dynamicmath.xyz/domain-coloring/dcgallery.html]
+
+    数学函数做的艺术图
+
+- 2019-07-14 @[http://elementsofprogramming.com/]
+
+    Elements of Programming 书籍开源
+
+- 2019-07-15 @[http://bjenik.com/hackableeditor/]
+
+    Building a hackable editor - in your browser
+
+- 2019-07-16 @[http://matt.might.net/articles/what-cs-majors-should-know/]
+
+    What every computer science major should know
+
+- 2019-07-17 @[https://github.com/hanbinglengyue/FART]
+
+    ART环境下自动化脱壳方案，基于Android 6.0方案实现
+
+- 2019-07-18 @[https://d4stiny.github.io/Local-Privilege-Escalation-on-most-Dell-computers/]
+
+    Local Privilege Escalation on Dell machines running Windows
+
+- 2019-07-19 @[https://ardern.io/2019/06/20/payload-bxss/]
+
+    Advanced Blind XSS Payloads
+
+- 2019-07-20 @[https://github.com/hugsy/cemu]
+
+    Cheap EMUlator: lightweight multi-architecture assembly playground
+
+- 2019-07-21 @[https://insights.sei.cmu.edu/sei_blog/2019/07/using-ooanalyzer-to-reverse-engineer-object-oriented-code-with-ghidra.html]
+
+    Using OOAnalyzer to Reverse Engineer Object Oriented Code with Ghidra
+
+- 2019-07-22 @[https://github.com/AxtMueller/Windows-Kernel-Explorer]
+
+    A free but powerful Windows kernel research tool
+
+- 2019-07-23 @[https://2019.pass-the-salt.org/files/slides/02-Dexcalibur.pdf]
+
+    Dexcalibur - Automate your Android App Reverse
+
+- 2019-07-24 @[https://malwareunicorn.org/#/workshops]
+
+    Workshops - reverse engineering workshops
+
+- 2019-07-25 @[https://blog.trailofbits.com/2019/07/19/understanding-docker-container-escapes/]
+
+    Understanding Docker container escapes
+
+- 2019-07-26 @[https://twilco.github.io/riscv-from-scratch/2019/07/08/riscv-from-scratch-3.html]
+
+    RISC-V from scratch 3
+
+- 2019-07-27 @[https://github.com/bet4it/build-an-efficient-pwn-environment]
+
+    Build an efficient pwn development environment in 2019
+
+- 2019-07-28 @[https://medium.com/@0x4d31/rdp-client-fingerprinting-9e7ac219f7f4]
+
+    RDP Fingerprinting Profiling RDP Clients with JA3 and RDFP
+
+- 2019-07-29 @[https://github.com/snovvcrash/usbrip]
+
+    Simple command line forensics tool for tracking USB device artifacts
+    (history of USB events) on GNU/Linux
+
+- 2019-07-30 @[https://tuhrig.de/how-to-know-you-are-inside-a-docker-container/]
+
+    判断你是否位于 docker 中的方法.
+
+    How to know you are inside a Docker container?
+
+- 2019-07-31 @[https://github.com/Bypass007/Emergency-Response-Notes/blob/master/README.md]
+
+    应急响应实战笔记
+

@@ -1,0 +1,144 @@
+---
+Title: Technology Knowledge Base 2019-05
+Date: 2019-05-01
+Author: bugnofree
+---
+
+TKB 首页: https://github.com/ikey4u/tkb, 欢迎 star.
+
+pdf 等资料位于 datum 目录 → @[https://github.com/ikey4u/tkb/tree/master/datum]
+
+- 2019-05-01 @[https://github.com/wasmerio/wasmer]
+
+    Universal WebAssembly runtime https://wasmer.io
+
+- 2019-05-02 @[https://www.gnu.org/software/guix/blog/2019/gnu-guix-1.0.0-released/]
+
+    GNU Guix 1.0.0 released
+
+- 2019-05-03 @[https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/]
+
+    Remote Code Execution on most Dell computers
+
+- 2109-05-03 @[https://d4stiny.github.io/Remote-Code-Execution-on-most-Dell-computers/]
+
+    Remote Code Execution on most Dell computers
+
+- 2019-05-04 @[https://github.com/0xAlexei/INFILTRATE2019]
+
+    Three Heads are Better Than One: Mastering NSA's Ghidra Reverse Engineering Tool
+
+- 2019-05-05 @[https://www.wikihow.com/Main-Page]
+
+    wikihow, 很良心的一个网站
+
+- 2019-05-06 @[https://speakerdeck.com/hhj4ck/el3-tour-get-the-ultimate-privilege-of-android-phone]
+
+    EL3 Tour: Get the Ultimate Privilege of Android Phone
+
+    pdf 已经上传到 https://github.com/ikey4u/tkb/tree/master/datum
+
+
+－ 2019-05-07 @[https://medium.com/@massarelli/safe-self-attentive-function-embedding-d80abbfea794]
+
+    SAFE: a step into the creation of embeddings for binary code similarity detection
+
+- 2019-05-08 @[https://github.com/Jinmo/ifred]
+
+    IDA command palette & further
+
+- 2019-05-09 @[https://rominirani.com/docker-tutorial-series-a7e6ff90a023]
+
+    Docker Tutorial Series
+
+- 2019-05-10 @[https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/]
+
+    How To Do Firmware Analysis - Tools, Tips, and Tricks
+
+- 2019-05-11
+
+    图片格式与调色板, pdf 文件见 `datum/2019-05-11.图片格式与调色板.pdf`
+
+- 2019-05-12 @[https://github.com/cheat-engine/cheat-engine]
+
+    Cheat Engine. A development environment focused on modding games and applications for personal use.
+
+- 2019-05-13 @[https://github.com/githubwing/DroidSword]
+
+    逆向神器,快速定位UI信息.
+
+- 2019-05-14 @[https://bbs.pediy.com/thread-249641.htm]
+
+    mprop 源码
+
+- 2019-05-15 @[https://github.com/markjandrews/wrk-v1.2]
+
+    Windows Research Kernel 源码, 去这个老哥的主页看看, 会有其他收获.
+
+- 2019-05-16 @[https://github.com/yadox666/The-Hackers-Hardware-Toolkit]
+
+    The-Hackers-Hardware-Toolkit
+
+- 2019-05-17 @[https://github.com/danigargu/heap-viewer]
+
+    An IDA Pro plugin to examine the glibc heap, focused on exploit development
+
+- 2019-05-18 @[https://github.com/w296488320/ArtXposedNativeHook]
+
+    XPOSED 实现ART NativeHook
+
+- 2019-05-19 @[http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf]
+
+    A Heavily Commented Linux Kernel Source Code
+
+    同济大学赵炯编著的Linux内核完全注释,共1016页,PDF格式.
+
+- 2019-05-20 @[https://jonas.github.io/tig/]
+
+    git 浏览器, 炫酷!
+
+- 2019-05-21 @[https://github.com/patois/dsync]
+
+    IDAPython 同步显示 F5 源码和汇编代码的对应关系
+
+- 2019-05-22 @[https://www.freebuf.com/geek/196261.html]
+
+    微信PC端技术研究:如何找到消息发送接口
+
+- 2019-05-23 Rusticity: convert an integer to an enum @[https://www.enodev.fr/posts/rusticity-convert-an-integer-to-an-enum.html]
+
+    在 Rust 中将一个 Enum 项转换为整数是容易的, 但是把整数转换为一个 Enum 项则是比较困难的.
+
+    这篇文章给出了后者的解决方法.
+
+- 2019-05-24 @[https://cheats.rs/]
+
+    Rust Language Cheat Sheet
+
+- 2019-05-25 @[https://github.com/j00ru/windows-syscalls]
+
+    Windows System Call Tables
+
+- 2019-05-26 @[https://bypass007.github.io/Emergency-Response-Notes/]
+
+    应急响应实战笔记
+
+- 2019-05-27 @[https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/]
+
+    The 101 of ELF files on Linux: Understanding and Analysis
+
+- - 2019-05-28 @[https://xmonader.github.io/letsbuildacompiler-pretty/about.html]
+
+    Let's build a compiler
+
+- 2019-05-29 @[https://github.com/W00t3k/Awesome-Cellular-Hacking]
+
+    Awesome-Cellular-Hacking
+
+- 2019-05-30 Machine.Learning.and.Security
+
+    电子书, 已上传至 datum 目录, 名称 2019-05-30.Machine.Learning.and.Security.2018.2.pdf
+
+- 2019-05-31 @[https://mp.weixin.qq.com/s/mzZatZ10Rh19IEgQvbhGUg]
+
+    当多线程并发遇到Actor, actor 模式, 讲的还不错
