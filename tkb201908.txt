@@ -1,0 +1,134 @@
+---
+Title: Technology Knowledge Base 2019-08
+Date: 2019-08-01
+Author: bugnofree
+---
+
+TKB 首页: https://github.com/ikey4u/tkb, 欢迎 star.
+
+- 2019-08-01 @[https://0x00sec.org/t/the-art-of-man-in-the-middle-attack/15140]
+
+    The Art of Man-in-the-Middle Attack
+
+- 2019-08-02 @[https://github.com/nanochess/bootOS]
+
+    bootOS is a monolithic operating system in 512 bytes of x86 machine code.
+
+- 2019-08-03 @[https://alexiachen.github.io/blog/2017/03/16/type-safety/]
+
+    什么是类型安全?
+
+- 2019-08-04 @[https://github.com/bet4it/hyperpwn]
+
+    A hyper plugin to provide a flexible GDB GUI with the help of GEF or pwndbg
+
+- 2019-08-05 @[https://docs.google.com/presentation/d/17Vlv5JD8fGeeNMQqDuwDQXN3d9U6Yxmfb1aebfbMM98/view#slide=id.g596d6e7a6d_0_10]
+
+    The (Long) Journey To A Multi-Architecture Disassembler - REcon2019
+
+- 2019-08-06 @[https://static1.squarespace.com/static/53a64cc2e4b0c63fc41a3320/t/5d48d619208ae80001a24efc/1565054491140/CPP+Dynamic+Type+Recovery.pdf]
+
+    Automation Techniques in C++ Reverse Engineering
+
+    已经备份到 datum 目录.
+
+- 2019-08-07 @[https://github.com/lukaslueg/macro_railroad]
+
+    Rust 宏的图解库
+
+    A library to generate syntax diagrams for Rust macros.
+
+- 2019-08-08 @[https://github.com/3b1b/manim]
+
+    Animation engine for explanatory math videos
+
+- 2019-08-09 @[https://github.com/zhaoolee/ChineseBQB]
+
+    中国人的表情包
+
+- 2019-08-10 @[https://ngoldbaum.github.io/posts/python-vs-rust-nn/]
+
+    Python vs Rust for Neural Networks
+
+- 2019-08-11 @[https://github.com/nologic/idaref]
+
+    IDA Pro Instruction Reference Plugin
+
+- 2019-08-12 @[https://github.com/shundhammer/qdirstat]
+
+    QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
+
+- 2019-08-13
+
+    IDA 不能 F5 查看伪代码
+
+        https://xhyeax.github.io/2018/11/30/ida-positive-sp/
+        http://blog.plusls.cn/ctf/xdctf-2017/reverse/destory/
+
+- 2019-08-14 @[https://wizardforcel.gitbooks.io/androidsecnotes/content/]
+
+    Android 安全笔记
+
+- 2019-08-15 @[https://github.com/fjh658/IDA7.0_SP]
+
+    IDA 7.0 在 mac 上如果有中文输入法会崩溃掉, 这里给了一个解决方法.
+
+- 2019-08-16 @[https://medium.com/bugbountywriteup/writing-a-password-protected-bind-shell-linux-x64-e052d2f65ff2]
+
+    Writing a Password Protected Bind Shell (Linux/x64)
+
+- 2019-08-17 @[https://www.joshuawise.com/horndis]
+
+    通过 USB 给 MAC 共享网络
+
+- 2019-08-18 @[https://github.com/changkun/modern-cpp-tutorial]
+
+    现代 C++ 教程
+
+- 2019-08-19 @[https://bannedit.github.io/Virtual-Machine-Detection-In-The-Browser.html#Virtual-Machine-Detection-In-The-Browser]
+
+    在浏览器中检测虚拟机
+
+- 2019-08-20 @[https://revers.engineering/applied-reverse-engineering-series/]
+
+    Applied Reverse Engineering Series
+
+- 2019-08-21 @[https://blog.regehr.org/archives/1687]
+
+    Write Fuzzable Code
+
+- 2019-08-22 @[https://www.youtube.com/playlist?list=PLRAe18TJ_NTE9cr18OPphn82WS8gVv-te]
+
+    Ghidra 系列教程
+
+- 2019-08-23 @[https://xz.aliyun.com/t/2336]
+
+    Frida.Android.Practice (ssl unpinning)
+
+- 2019-08-24 @[https://curz0n.github.io/2018/07/10/xposed_find_classloader/]
+
+    利用xposed插桩,获取真实ClassLoader的常见应用场景
+
+- 2019-08-25 @[https://github.com/githubwing/DroidSword]
+
+    逆向神器，快速定位UI信息。
+
+- 2019-08-26 @[http://aosabook.org/en/index.html]
+
+    一系列神书: The Architecture of Open Source Applications
+
+- 2019-09-27 @[https://pagedout.institute/]
+
+    一个新型免费杂志, 文章主要是关于编程技巧, hacking, 安全等主题的.
+
+- 2019-09-28 @[https://research.checkpoint.com/cryptographic-attacks-a-guide-for-the-perplexed/]
+
+    Cryptographic Attacks: A Guide for the Perplexed
+
+- 2019-09-29 @[https://secrary.com/Random/anti_re_simple/]
+
+    Simple Anti-RE Trick
+
+- 2019-09-30 @[https://arxiv.org/pdf/1908.01549.pdf]
+
+    How to Kill Symbolic Deobfuscation for Free
