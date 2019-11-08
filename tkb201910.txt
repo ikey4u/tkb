@@ -1,0 +1,137 @@
+---
+Title: Technology Knowledge Base 2019-10
+Date: 2019-10-01
+Author: bugnofree
+---
+
+TKB 首页: https://github.com/ikey4u/tkb, 欢迎 star.
+
+- 2019-10-01 @[https://github.com/zyantific/zydis]
+
+    Fast and lightweight x86/x86-64 disassembler library
+
+- 2019-10-02 @[https://github.com/inforion/idapython-cheatsheet]
+
+    Scripts and cheatsheets for IDAPython
+
+- 2019-10-03 @[https://github.com/home-assistant/home-assistant]
+
+    Open source home automation that puts local control and privacy first
+
+- 2019-10-04 @[https://github.com/SinaKarvandi/misc/blob/master/custom-qemu-for-instrumentation/readme.md]
+
+    Custom QEMU for Instrumentation
+
+- 2019-10-05 @[https://github.com/B2R2-org/B2R2]
+
+    B2R2 is a collection of useful algorithms, functions, and tools for binary analysis.
+
+- 2019-10-06 @[https://sensepost.com/blog/2019/mettle-your-ios-with-frida/]
+
+    mettle your ios with frida
+
+- 2019-10-07 @[https://bhamza.me/2019/10/06/Automated-Frida-hook-generation-with-JEB.html]
+
+    Automated Frida hook generation with JEB
+
+- 2019-10-08 @[https://github.com/threatland/TL-BOTS]
+
+    A collection of source code for various botnets.
+
+- 2019-10-09 @[https://github.com/activescott/lessmsi]
+
+    A tool to view and extract the contents of an Windows Installer (.msi) file
+
+- 2019-10-10 @[https://raytracing.github.io/]
+
+    光线追踪的一本开源书籍 Ray Tracing in One Weekend
+
+- 2019-10-11 @[http://intx0x80.blogspot.com/2019/10/JWT.html]
+
+    Introduction how to Exploit JWT
+
+- 2019-10-12 @[https://recon.cx/media-archive/2019/Session.008.Rolf_Rolles.Automation_Techniques_in_C++_Reverse_Engineering-8jKapmZP0gND6.mp4]
+
+    视频 Automation Techniques in C++ Reverse Engineering
+
+- 2019-10-13 @[https://github.com/nccgroup/demiguise]
+
+    HTA encryption tool for RedTeams
+
+- 2019-10-14 @[https://github.com/nowsecure/fsmon]
+
+    monitor filesystem on iOS / OS X / Android / FirefoxOS / Linux
+
+- 2019-10-15 @[https://mp.weixin.qq.com/s/T8CFMjQ5_te1fIHzwzTpUg]
+
+    Oo0代码混淆实现方法
+
+- 2019-10-16 @[https://github.com/w296488320/XposedOkHttpCat]
+
+    xposed hook Okhttp
+
+- 2019-10-17 @[https://github.com/PreOS-Security/awesome-firmware-security/]
+
+    固件安全相关资源列表
+
+- 2019-10-18 @[https://mrexodia.github.io/reversing/2019/09/28/Analyzing-keyboard-firmware-part-1]
+
+    Analyzing Keyboard Firmware
+
+- 2019-10-19 @[https://threatvector.cylance.com/en_us/home/malicious-payloads-hiding-beneath-the-wav.html]
+
+    Malicious Payloads - Hiding Beneath the WAV
+
+- 2019-10-20 @[https://mml-book.github.io]
+
+    Mathematics for Machine Learning
+
+- 2019-10-21 @[https://blogs.technet.microsoft.com/markrussinovich/2009/07/05/pushing-the-limits-of-windows-processes-and-threads/]
+
+    Pushing the Limits of Windows: Processes and Threads
+
+-  2019-10-22 @[https://github.com/blokadaorg/blokada]
+
+    开源的广告屏蔽工具(Android) Free ad blocker for Android with the best open source community. https://blokada.org
+
+- 2019-10-23 @[https://github.com/chame1eon/jnitrace]
+
+    A Frida based tool that traces usage of the JNI API in Android apps.
+
+- 2019-10-24 @[https://oeis.org]
+
+    The On-Line Encyclopedia of Integer Sequences
+
+    一个有意思的网站, 输入一个整数序列, 它给你找出可能相关的公式, 引用, 文献, 链接等
+
+- 2019-10-25 @[https://github.com/carbon-app/carbon]
+
+     Create and share beautiful images of your source code
+
+     把代码以图片的形式导出, 方便高亮展示.
+
+- 2019-10-26 @[https://blog.quarkslab.com/analysis-of-qualcomm-secure-boot-chains.html]
+
+    Analysis of Qualcomm Secure Boot Chains
+
+- 2019-10-27 @[https://www.ayrx.me/ghidra-jnianalyzer]
+
+    Ghidra Plugin: JNIAnalyzer
+
+- 2019-10-28 @[http://blog.pnkfx.org/blog/2019/06/26/breaking-news-non-lexical-lifetimes-arrives-for-everyone/]
+
+    Breaking News: Non-Lexical Lifetimes Arrives for Everyone
+
+    Rust 在 1.36 版本中正式引入 NLL 特性
+
+- 2019-10-29 @[https://github.com/iamutkarshtiwari/Ananas.git]
+
+    An easy image editor integration for your Android apps.
+
+- 2019-10-30 @[https://github.com/burhanrashid52/PhotoEditor]
+
+    A Photo Editor library with simple, easy support for image editing using paints,text,filters,emoji and Sticker like stories.
+
+- 2019-10-31 @[https://github.com/any86/any-rule]
+
+    常用正则大全, 支持vscode扩展插件
