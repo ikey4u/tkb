@@ -1,0 +1,131 @@
+---
+Title: Technology Knowledge Base 2019-11
+Date: 2019-11-01
+Author: bugnofree
+---
+
+TKB 首页: https://github.com/ikey4u/tkb, 欢迎 star.
+
+- 2019-11-01 @[https://reverse.put.as/2019/10/29/crafting-an-efi-emulator/]
+
+    Crafting an EFI Emulator and Interactive Debugger
+
+- 2019-11-02 @[https://gravitational.com/blog/ssh-handshake-explained/]
+
+    SSH Handshake Explained
+
+- 2019-11-03 @[https://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/]
+
+    Reversing GO binaries like a pro
+
+- 2019-11-04 @[https://github.com/ownthink/KnowledgeGraphData]
+
+    最大规模1.4亿中文知识图谱
+
+- 2019-11-05 @[https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB]
+
+    1MB轻量级人脸检测模型
+
+- 2019-11-06 @[https://github.com/SecWiki/sec-chart]
+
+    安全四维导图
+
+- 2019-11-07 @[https://medium.com/@lerner98/rage-against-the-maschine-3357be1abc48]
+
+    Rage Against the Maschine
+
+- 2019-11-08 @[https://maxkersten.nl/binary-analysis-course/malware-analysis/corona-ddos-bot/]
+
+    Corona DDoS bot
+
+- 2019-11-09 @[https://juejin.im/post/5dc4aa4be51d4561f6285c79?utm_source=gold_browser_extension]
+
+    为IDA加载调试符号
+
+- 2019-11-10 @[https://github.com/emsec/hal]
+
+    HAL – The Hardware Analyzer
+
+- 2019-11-11 @[https://webserver2.tecgraf.puc-rio.br/~ismael/Cursos/YC++/apostilas/win32_xcoff_pe/tyne-example/Tiny%20PE.htm]
+
+    Creating the smallest possible PE executable
+
+- 2019-11-12 @[https://duanqz.github.io/2016-04-15-Android-Local-Manifests-Practice]
+
+    Android Local Manifests机制的使用实践
+
+- 2019-11-13 @[https://www.xda-developers.com/android-development-bypass-hidden-api-restrictions/]
+
+    Developers: It's super easy to bypass Android's hidden API restrictions
+
+- 2019-11-14 @[https://d4mianwayne.github.io/posts/fmt-bof]
+
+    Binary Exploitation - Format String + Buffer Overflow Vulnerability
+
+- 2019-11-15 @[https://github.com/xrkk/awesome-ida]
+
+    跟IDA Pro有关的资源收集.当前包括的工具个数450左右,并根据功能进行了粗糙的分类.部分工具添加了中文描述.
+
+- 2019-11-16 @[https://blog.trailofbits.com/2019/10/31/destroying-x86_64-instruction-decoders-with-differential-fuzzing/]
+
+    Destroying x86_64 instruction decoders with differential fuzzing
+
+- 2019-11-17 @[https://nathandavison.com/blog/abusing-http-hop-by-hop-request-headers]
+
+    Abusing HTTP hop-by-hop request headers
+
+- 2019-11-18 @[https://medium.com/tenable-techblog/routeros-chain-to-root-f4e0b07c0b21]
+
+    RouterOS: Chain to Root
+
+- 2019-11-19
+
+    - HTTP parameter discovery suite @[https://github.com/s0md3v/Arjun]
+
+    - The meaning of refs and refspecs GIT 提交中的 refs 和 refspecs 含义 @[https://git.seveas.net/the-meaning-of-refs-and-refspecs.html]
+
+- 2019-11-20 @[https://securelist.com/hacking-microcontroller-firmware-through-a-usb/89919/]
+
+    Hacking microcontroller firmware through a USB
+
+- 2019-11-21 @[https://www.peerlyst.com/posts/the-practical-guide-to-radio-waves-hacking-aditya-gupta]
+
+    The Practical Guide to Radio Waves Hacking
+
+- 2019-11-22 @[https://github.com/CoatiSoftware/Sourcetrail]
+
+    Sourcetrail - free and open-source interactive source explorer
+
+- 2019-11-23 @[https://rust-lang.github.io/api-guidelines/about.html]
+
+    Rust API Guidelines
+
+- 2019-11-24 @[https://www.youtube.com/playlist?list=PLDcmCgguL9rxPoVn2ykUFc8TOpLyDU5gx]
+
+    Compilers and interpreters 课程
+
+- 2019-11-25 @[https://repnz.github.io/posts/autochk-rootkit-analysis/]
+
+    Autochk Rootkit Analysis
+
+- 2019-11-26 @[https://github.com/pr0cf5/kernel-exploit-practice/tree/master/bypass-smep]
+
+    kernel exploit practice: SMEP + KPTI bypass
+
+- 2019-11-27 @[https://n4r1b.netlify.com/en/posts/2019/11/understanding-wdboot-windows-defender-elam/]
+
+    Understanding WdBoot (Windows Defender ELAM)
+
+- 2019-11-28 @[https://blog.flanker017.me/text-to-speech-speaks-pwned/]
+
+    Text-To-Speech speaks pwned
+
+    expolit code: https://github.com/flankerhqd/vendor-android-cves/tree/master/SMT-CVE-2019-16253
+
+- 2019-11-29 @[https://dayzerosec.com/posts/analyzing-androids-cve-2019-2215-dev-binder-uaf/]
+
+    Analyzing Android's CVE-2019-2215 (/dev/binder UAF)
+
+- 2019-11-30 @[https://checkra.in/]
+
+    iPhone 5s - iPhone X, iOS 12.3 and up jailbreak
