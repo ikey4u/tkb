@@ -16,7 +16,7 @@
 自 2019-12-26 日起, 每日消息以卡片形式推送, 样例信息如下所示
 
 <center>
-<img src="democard.png" width="256px">
+<img src="democard.png">
 </center>
 
 # 加入小组
