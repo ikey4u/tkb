@@ -16,7 +16,7 @@
 自 2019-12-26 日起, 每日消息以卡片形式推送, 样例信息如下所示
 
 <center>
-<img src="democard.png">
+<img src="imgs/democard.png">
 </center>
 
 # 加入小组
@@ -24,5 +24,5 @@
 想加入群的小伙伴微信扫描添加下面的机器人, 备注 `TKB`, 申请通过后, 拉你进群.
 
 <center>
-<img src="robot.jpeg" alt="" width="256px">
+<img src="imgs/robot.jpeg" alt="" width="256px">
 </center>
