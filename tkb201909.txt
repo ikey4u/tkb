@@ -106,8 +106,6 @@ TKB 首页: https://github.com/ikey4u/tkb, 欢迎 star.
 
     REVEN 2.2: Python API, Automatic Recording, and more
 
---
-
 - 2019-09-24 @[https://www.hex-rays.com/products/ida/support/ida74_idapython_python3.shtml]
 
     IDA 7.4 将支持 python3.
@@ -138,4 +136,3 @@ TKB 首页: https://github.com/ikey4u/tkb, 欢迎 star.
     flare-emu marries IDA Pro’s binary analysis capabilities with Unicorn’s
     emulation framework to provide the user with an easy to use and flexible
     interface for scripting emulation tasks.
-
